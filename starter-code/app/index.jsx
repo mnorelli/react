@@ -6,5 +6,5 @@ import HelloWorld from './components/hello-world'
 
 
 ReactDOM.render(
-  <HelloWorld/>,document.getElementById("hello-world-component")
+  <HelloWorld name="WDI"/>,document.getElementById("hello-world-component")
   )
